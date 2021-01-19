@@ -1,9 +1,13 @@
 # AgilexRobotPythonFramework
 python-can wrapped framework to parse agilex can-bus data .
+ |no |  tested on |  
+ |:-:| :-------------------: | 
+ | 1 | scout mini |
+ 
+   
+
 
 reference repos:
-
-
 
  |no |  name |  
  |:-:| :-------------------: | 
