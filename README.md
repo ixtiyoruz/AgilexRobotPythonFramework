@@ -4,7 +4,13 @@ python-can wrapped framework to parse agilex can-bus data .
  |:-:| :-------------------: | 
  | 1 | scout mini |
  
-   
+  requirements:
+  
+  sudo apt-get install net-tools
+  pip3 install python-can
+  pip3 install simple-pid
+  pip3 install matplotlib
+  pip3 install numpy
 
 
 reference repos:
