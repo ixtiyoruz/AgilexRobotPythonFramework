@@ -25,4 +25,9 @@ reference repos:
  | 1 | https://github.com/ninedraft/python-udp |
  | 2 | https://github.com/hardbyte/python-can | 
  | 3 | https://github.com/agilexrobotics/agx_sdk | 
-   
+ 
+ Issues:
+ 1. if you face the problem below, then try to use different usb port it worked for me.
+<pre>
+Failed to transmit: [Errno 105] No buffer space available
+</pre>
