@@ -4,13 +4,14 @@ python-can wrapped framework to parse agilex can-bus data .
  |:-:| :-------------------: | 
  | 1 | scout mini |
  
-  requirements:
+requirements:
 wake up the can interface:
 <pre>
 sudo ip link set can0 down type can bitrate 500000
 </pre>
 
 <pre>
+  python3, ubuntu
   sudo apt-get install net-tools
   pip3 install python-can
   pip3 install simple-pid
