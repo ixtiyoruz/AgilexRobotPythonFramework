@@ -7,7 +7,7 @@ python-can wrapped framework to parse agilex can-bus data .
 requirements:
 wake up the can interface:
 <pre>
-sudo ip link set can0 down type can bitrate 500000
+sudo ip link set can0 up type can bitrate 500000
 </pre>
 
 <pre>
